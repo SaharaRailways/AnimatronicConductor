@@ -1,3 +1,9 @@
 {"block.animatronic_block.step": {
-  "sounds": ["block.stone.step"]
+  "sounds": [
+      "minecraft:block.stone.step1",
+      "minecraft:block.stone.step2",
+      "minecraft:block.stone.step3",
+      "minecraft:block.stone.step4",
+      "minecraft:block.stone.step5"
+  ]
 }}
