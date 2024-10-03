@@ -10,5 +10,15 @@ CC:C Bridge:
 Embeded Computer:  
 -Restyled the front to match with the Computer Create resource pack for Computer Craft  
   -The sides of the Embeded Computer automatically pull from the advanced computer texture, which is replaced by Computer Create  
-  
- This was created for the second season of the Steam 'n' Rails server.  
+
+Links:  
+https://modrinth.com/resourcepack/animatronic-conductor  
+https://modrinth.com/mod/cccbridge  
+https://modrinth.com/mod/embeddedcomputer  
+https://modrinth.com/resourcepack/computercreate  
+https://modrinth.com/mod/cc-tweaked  
+https://modrinth.com/mod/create  
+https://modrinth.com/mod/create-fabric  
+https://modrinth.com/mod/create-steam-n-rails  
+
+This was created for the second season of the Steam 'n' Rails server.  
