@@ -5,7 +5,7 @@ MOD COMPAT LIST:
 
 CC:C Bridge:  
 -Animatronics become conductors from the Create: Steam 'n' Rails mod  
--Redrouter is now andesite casing with rose quartz on the sides and top. The front has been changed to andesite  
+-Redrouter is now andesite casing with rose quartz on the sides and top. The front has been changed to an andesite border
 
 Embeded Computer:  
 -Restyled the front to match with the Computer Create resource pack for Computer Craft  
