@@ -2,8 +2,7 @@
 A resource pack to retexture Computer Craft addon mods around the Create mod
 MOD COMPAT LIST:
 
-CC:C Bridge:
-
+CC:C Bridge: 
 -Animatronics become conductors from the Create: Steam 'n' Rails mod
 -Redrouter is now andesite casing with rose quartz
   -the front side replaced stone with andesite
